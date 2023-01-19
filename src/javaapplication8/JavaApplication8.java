@@ -5,7 +5,6 @@
 package javaapplication8;
 
 /**
- *
  * @author apple
  */
 public class JavaApplication8 {
@@ -15,7 +14,10 @@ public class JavaApplication8 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello World!");
+        System.out.println("Hello World v1!");
+    }
+    public void test(){
+        
     }
     
 }
